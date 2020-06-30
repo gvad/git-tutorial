@@ -1,0 +1,10 @@
+git staus -> prints the status of the Git Repository
+git init
+git config --global user.name "Let's Kode It"
+git cnfig -global user.email letskodeit@gmail.com
+git cnfig user.name "Let's Kode It"
+git config user.email letskodeit@gmail.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
